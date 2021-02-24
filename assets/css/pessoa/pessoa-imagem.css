@@ -1,0 +1,17 @@
+.pessoa__imagem{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.pessoa__imagem--luiz{
+    background-image: url('../../img/pessoas/luiz.jpg');
+}
+
+.pessoa__imagem--maria{
+    background-image: url('../../img/pessoas/maria.jpg');
+}
